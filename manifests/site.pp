@@ -88,3 +88,7 @@ node default {
     target => $boxen::config::repodir
   }
 }
+
+if hiera_array('classes', undef) {
+  hiera_include('classes')
+}

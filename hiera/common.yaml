@@ -6,6 +6,9 @@
 # Have a gander at some of these examples to get an idea of some of the things
 # that you can affect 'out of the box', and then customise to your
 # heart's content.
+# classes:
+#  - vagrant
+#  - virtualbox
 
 # See https://github.com/boxen/puppet-ruby for docs
 ruby::global::version: "2.2.3"
@@ -19,3 +22,11 @@ ruby::version::alias:
 
 # See https://github.com/boxen/puppet-java for docs
 java::update_version: 51
+
+
+vagrant::version: 1.8.1
+iterm2::version: 2.1.4
+#virtualbox::version: 5.0.12
+#virtualbox::patch_level: 104815
+
+

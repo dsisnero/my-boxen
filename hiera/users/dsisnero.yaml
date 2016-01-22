@@ -1,0 +1,22 @@
+boxen::personal::homebrew_packages:
+  - graphviz
+  - tmux
+  - wget
+  - swig
+  - pcre
+
+boxen::personal::osx_apps:
+  - evernote
+  - gimp
+  - iterm2
+  - plex-home-theater
+  - plex-media-server
+  - vagrant
+  - virtualbox
+
+
+
+
+
+
+
