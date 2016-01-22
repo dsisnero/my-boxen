@@ -6,6 +6,7 @@ boxen::personal::homebrew_packages:
   - pcre
 
 boxen::personal::osx_apps:
+  - emacs
   - evernote
   - gimp
   - iterm2
@@ -13,6 +14,7 @@ boxen::personal::osx_apps:
   - plex-media-server
   - vagrant
   - virtualbox
+
 
 
 

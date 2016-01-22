@@ -1,7 +1,6 @@
 class people::dsisnero::applications {
 
  
-  
-    
+
     
   }
