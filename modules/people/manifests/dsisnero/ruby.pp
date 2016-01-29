@@ -6,7 +6,11 @@ class people::dsisnero::ruby {
   ruby_gem { "asciidoctor for ${ruby::global::version}":
     gem => 'asciidoctor',
     ruby_version => $ruby::global::version,
-    version => '~> 1.5'
+  }
+
+  ruby_gem { "alfredo for ${ruby::global::version}":
+    gem => 'alfredo',
+    ruby_version => $ruby::global::version,
   }
 
   ruby_gem { 'bundler for all rubies':
