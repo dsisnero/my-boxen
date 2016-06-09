@@ -1,4 +1,9 @@
 GITHUBTARBALL
+  remote: Betterment/puppet-jenv
+  specs:
+    jenv (0.0.3)
+
+GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
     boxen (3.11.1)
@@ -114,6 +119,7 @@ DEPENDENCIES
   homebrew (= 1.13.0)
   hub (= 1.4.1)
   inifile (= 1.4.1)
+  jenv (= 0.0.3)
   module_data (= 0.0.4)
   nginx (= 1.6.0)
   nodejs (= 5.0.0)
