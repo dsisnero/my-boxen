@@ -25,7 +25,7 @@ java::update_version: 51
 
 
 vagrant::version: 1.8.1
-iterm2::version: 2.1.4
+iterm2::version: 3.0.0
 #virtualbox::version: 5.0.12
 #virtualbox::patch_level: 104815
 
