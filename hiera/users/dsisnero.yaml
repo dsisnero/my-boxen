@@ -4,6 +4,7 @@ boxen::personal::homebrew_packages:
   - wget
   - swig
   - pcre
+  - p7zip
 
 boxen::personal::osx_apps:
   - emacs
