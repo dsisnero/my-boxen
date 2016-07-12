@@ -5,6 +5,7 @@ boxen::personal::homebrew_packages:
   - swig
   - pcre
   - p7zip
+  - aria2
 
 boxen::personal::osx_apps:
   - emacs
