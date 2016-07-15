@@ -6,6 +6,8 @@ boxen::personal::homebrew_packages:
   - pcre
   - p7zip
   - aria2
+  - go
+
 
 boxen::personal::osx_apps:
   - emacs
