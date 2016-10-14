@@ -1,7 +1,7 @@
 class people::dsisnero::applications {
 
   include homebrew
-
+  #include java
   package { 'ffmpeg':
     ensure => present,
     install_options =>[

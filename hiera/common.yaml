@@ -22,13 +22,10 @@ ruby::version::alias:
   2.0.0: 2.0.0-p647
 
 # See https://github.com/boxen/puppet-java for docs
-java::update_version: 51
+java::update_version: 101
 
 
 vagrant::version: 1.8.4
-iterm2::version: 3.0.0
-virtualbox::version: 5.0.24
-#virtualbox::version: 5.0.12
-#virtualbox::patch_level: 104815
+iterm2::version: 3.0.10
 
 
